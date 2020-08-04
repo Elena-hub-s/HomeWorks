@@ -1,0 +1,14 @@
+C:\Users\elena\source\repos\ThirdLesson_HomeWork\ThirdLesson_HomeWork\bin\Debug\ThirdLesson_HomeWork.exe.config
+C:\Users\elena\source\repos\ThirdLesson_HomeWork\ThirdLesson_HomeWork\bin\Debug\ThirdLesson_HomeWork.exe
+C:\Users\elena\source\repos\ThirdLesson_HomeWork\ThirdLesson_HomeWork\bin\Debug\ThirdLesson_HomeWork.pdb
+C:\Users\elena\source\repos\ThirdLesson_HomeWork\ThirdLesson_HomeWork\obj\Debug\ThirdLesson_HomeWork.csprojAssemblyReference.cache
+C:\Users\elena\source\repos\ThirdLesson_HomeWork\ThirdLesson_HomeWork\obj\Debug\ThirdLesson_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\ThirdLesson_HomeWork\ThirdLesson_HomeWork\obj\Debug\ThirdLesson_HomeWork.exe
+C:\Users\elena\source\repos\ThirdLesson_HomeWork\ThirdLesson_HomeWork\obj\Debug\ThirdLesson_HomeWork.pdb
+C:\Users\elena\Desktop\ThirdLesson_HomeWork\ThirdLesson_HomeWork\bin\Debug\ThirdLesson_HomeWork.exe.config
+C:\Users\elena\Desktop\ThirdLesson_HomeWork\ThirdLesson_HomeWork\bin\Debug\ThirdLesson_HomeWork.exe
+C:\Users\elena\Desktop\ThirdLesson_HomeWork\ThirdLesson_HomeWork\bin\Debug\ThirdLesson_HomeWork.pdb
+C:\Users\elena\Desktop\ThirdLesson_HomeWork\ThirdLesson_HomeWork\obj\Debug\ThirdLesson_HomeWork.csprojAssemblyReference.cache
+C:\Users\elena\Desktop\ThirdLesson_HomeWork\ThirdLesson_HomeWork\obj\Debug\ThirdLesson_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\ThirdLesson_HomeWork\ThirdLesson_HomeWork\obj\Debug\ThirdLesson_HomeWork.exe
+C:\Users\elena\Desktop\ThirdLesson_HomeWork\ThirdLesson_HomeWork\obj\Debug\ThirdLesson_HomeWork.pdb
